@@ -8,3 +8,5 @@
 /backend/!**/src/test/**/target/
 /backend/!**/src/main/**/target/
 /backend/mvnw
+/backend/mvnw.cmd
+/backend/.mvn
