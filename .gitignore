@@ -10,6 +10,8 @@
 /backend/mvnw
 /backend/mvnw.cmd
 /backend/.mvn
+/backend/src/main/resources/static/assets/
+/backend/src/main/resources/static/index.html
 
 #Fontend
 /frontend/node_modules
