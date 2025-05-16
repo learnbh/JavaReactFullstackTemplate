@@ -4,7 +4,8 @@ function App() {
 
   return (
     <>
-          Hello World, CD is working :)
+        <h1>Hello World</h1>
+        <h2>continuous deployment is working :)</h2>
     </>
   )
 }
